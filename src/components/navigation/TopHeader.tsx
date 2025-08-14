@@ -9,7 +9,7 @@ export const TopHeader = () => {
           <div className="w-8 h-8 bg-wedding-gold rounded-full flex items-center justify-center">
             <span className="text-white font-bold text-sm">💍</span>
           </div>
-          <h1 className="text-xl font-bold">Salaam</h1>
+          <h1 className="text-xl font-bold">Wedding-Planner-AZ</h1>
         </div>
         
         <div className="flex items-center gap-2">
