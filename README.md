@@ -2,7 +2,8 @@
 
 ## Project info
 <img src="src/images/screen-1.png" alt="Logo" width="200"/>
-
+<img src="src/images/screen-2.png" alt="Logo" width="200"/>
+<img src="src/images/screen-3.png" alt="Logo" width="200"/>
 
 ## How can I edit this code?
 
