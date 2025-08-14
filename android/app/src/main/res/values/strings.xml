@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">salaam-greetings-app</string>
+    <string name="title_activity_main">salaam-greetings-app</string>
+    <string name="package_name">app.lovable.df3a332828624cd194a655ae872ccb11</string>
+    <string name="custom_url_scheme">app.lovable.df3a332828624cd194a655ae872ccb11</string>
+</resources>
