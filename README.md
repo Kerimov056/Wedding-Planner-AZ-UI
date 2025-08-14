@@ -1,10 +1,11 @@
 # Welcome to your project
 
 ## Project info
-<img src="src/images/screen-1.png" alt="Logo" width="200"/>
-<img src="src/images/screen-2.png" alt="Logo" width="200"/>
-<img src="src/images/screen-3.png" alt="Logo" width="200"/>
-
+<div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
+  <img src="src/images/screen-1.png" alt="Logo" width="200"/>
+  <img src="src/images/screen-2.png" alt="Logo" width="200"/>
+  <img src="src/images/screen-3.png" alt="Logo" width="200"/>
+</div>
 ## How can I edit this code?
 
 There are several ways of editing your application.
